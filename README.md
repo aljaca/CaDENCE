@@ -1,2 +1,1 @@
-# CaDENCE
-CaDENCE: Conditional Density Estimation Network Construction and Evaluation
+Parameters of a user-specified probability distribution are modelled by a multi-layer perceptron artificial neural network. This framework can be used to implement probabilistic nonlinear models including mixture density networks, heteroscedastic regression models, zero-inflated models, etc. following Cannon (2012) <doi:10.1016/j.cageo.2011.08.023>.
